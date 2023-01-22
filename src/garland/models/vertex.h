@@ -1,6 +1,7 @@
 #ifndef MESH_RECONSTRUCTION_VERTEX_H
 #define MESH_RECONSTRUCTION_VERTEX_H
 
+#include <set>
 #include <vector>
 #include <iostream>
 #include <fstream>
